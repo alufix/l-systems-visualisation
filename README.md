@@ -1,5 +1,5 @@
 # l-systems-visualisation
-Repository for L-systems visualisation project. 
+Repository for L-systems visualisation project (written in Unity with C#) 
 
 Best viewed via web build: https://alucodev.itch.io/l-systems-visualisation/password?=goldsmiths 
 
